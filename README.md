@@ -1,2 +1,3 @@
-# django-bootstrap-v5-package
-Bootstrap 5 integration with Django. packaged for conda
+#Conda Packaging Template
+
+This template repository contains a default setup for building new conda packages via agithub action.
